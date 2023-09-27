@@ -1,7 +1,7 @@
 # Queue booking system
 
 Flutter project demo.
- UI/UX by Figma
+UI/UX by Figma
 https://shorturl.at/amtS6
 
 ## Getting Started
